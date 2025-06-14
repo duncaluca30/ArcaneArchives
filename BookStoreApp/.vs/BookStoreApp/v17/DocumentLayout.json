@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapp\\bookstoreapp\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\bookstoreapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\bookstoreapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapp\\bookstoreapp\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapp\\bookstoreapp\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapp\\bookstoreapp\\addbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\addbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\bookstoreapp\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapp\\bookstoreapp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapp\\bookstoreapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\bookstoreapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D3EC95-65B4-4A71-8633-B0EAD0215BD2}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 371,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AdminDashboard.cs",
+              "RelativeToolTip": "BookStoreApp\\AdminDashboard.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:59:21.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AddBook.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\AddBook.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AddBook.cs [Design]",
+              "RelativeToolTip": "BookStoreApp\\AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:28:28.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBook.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AddBook.Designer.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\AddBook.Designer.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AddBook.Designer.cs",
+              "RelativeToolTip": "BookStoreApp\\AddBook.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAuwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:30:38.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\CustomerDashboard.cs",
+              "RelativeToolTip": "BookStoreApp\\CustomerDashboard.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:06:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "BookStoreApp\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:58:32.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\ApiResponse.cs",
+              "RelativeToolTip": "BookStoreApp\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:48:18.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "BookStoreApp\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAuwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:14:22.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "BookStoreApp\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:06:40.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\LoginForm.cs",
+              "RelativeToolTip": "BookStoreApp\\LoginForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:40:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreApp\\BookStoreApp\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "BookStoreApp\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:57:57.231Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

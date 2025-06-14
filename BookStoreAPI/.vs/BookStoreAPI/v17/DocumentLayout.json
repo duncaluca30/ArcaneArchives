@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapi\\bookstoreapi\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapi\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapi\\bookstoreapi\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapi\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapi\\bookstoreapi\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|c:\\users\\elena andreicut\\documents\\ii\\tema2\\bookstoreapi\\bookstoreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A5FBBB-33B2-4D4E-9A76-5D5B24D9FF05}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BookStoreAPI\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\BookDTO.cs",
+              "RelativeToolTip": "BookStoreAPI\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:17:43.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStoreAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:06:56.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Data\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "BookStoreAPI\\Data\\BookStoreContext.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Data\\BookStoreContext.cs",
+              "RelativeToolTip": "BookStoreAPI\\Data\\BookStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:00:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BookStoreAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:35:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "BookStoreAPI\\Models\\Basket.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Models\\Basket.cs",
+              "RelativeToolTip": "BookStoreAPI\\Models\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:26:44.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoreAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Elena Andreicut\\Documents\\II\\Tema2\\BookStoreAPI\\BookStoreAPI\\Program.cs",
+              "RelativeToolTip": "BookStoreAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:12:04.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
